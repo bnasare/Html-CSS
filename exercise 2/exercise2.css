@@ -1,0 +1,47 @@
+li {
+    list-style: none;
+    display: inline;
+    color: blue;
+    background-color: red;
+}
+
+.bigText {
+    font-family: fantasy;
+    font-size: 200%;
+    font-weight: bold;
+    font-style: italic;
+}
+
+li a {
+    text-decoration: none;
+}
+
+#contact {
+    color: white;
+}
+
+.twoText {
+    line-height: 30px;
+}
+
+section {
+    background-color: azure;
+}
+
+.oneText {
+    text-align: center;
+    padding-left: 20%;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+body {
+    background-color: burlywood;
+}
+
+footer {
+    background-color: grey;
+    color: white;
+}
